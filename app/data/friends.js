@@ -1,0 +1,51 @@
+
+var friends = [{
+    "name":"Brendon",
+    "photo":"https://ca.slack-edge.com/T5MFU3QFJ-U5MRE4PLY-g07bdaa18b89-512",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Evan",
+    "photo":"https://ca.slack-edge.com/T5MFU3QFJ-U5NCB7FHR-874546a75f29-512",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  },
+  {
+    "name":"Mark",
+    "photo":"https://ca.slack-edge.com/T5MFU3QFJ-U5N0495H6-g56b77df4774-512",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  }];
+  module.exports = friends;
+  
